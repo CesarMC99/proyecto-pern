@@ -6,7 +6,7 @@ import { SocialNetworks } from "./components/social-networks";
 export const Footer = () => {
   return (
     <footer
-      className="relative bg-[#F0F0F0] flex flex-col items-center pt-40
+      className="relative bg-[#F0F0F0] flex flex-col items-center pt-40 mt-50
                     xs:pt-36 sm:pt-30 md:pt-29"
     >
       <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full flex items-center justify-center">
